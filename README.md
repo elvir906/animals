@@ -2,7 +2,7 @@
 
 Склонировать файлы проекта:
 ```
-git clone https://gtihub.com/elvir906/animals.git
+git clone https://github.com/elvir906/animals.git
 ```
 ```
 cd aanimals
